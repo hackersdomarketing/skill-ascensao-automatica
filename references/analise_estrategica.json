@@ -1,0 +1,786 @@
+{
+  "metadata": {
+    "data_extracao": "2026-01-21T16:17:29.566308",
+    "fonte": "conteudo_consolidado.txt - 20 PDFs sobre estratégias de ascensão",
+    "total_caracteres": "353k",
+    "autor_principal": "Rafa Marks",
+    "objetivo": "Extrair todo conhecimento para criar skill de ascensão automática de clientes"
+  },
+  "frameworks": [
+    {
+      "nome": "EFEITO ALQUIMIA - Método Rafa Marks de Ascensão",
+      "descricao": "Como Transformar Clientes Parados Em Toneladas De Dinheiro",
+      "passos": {
+        "PASSO 1": {
+          "titulo": "MAPEAR A EVOLUÇÃO DO MEU AVATAR, EM CADA DEGRAU DA MINHA ESCADA DE VALOR",
+          "descricao": "Entender que cada cliente é OUTRO AVATAR em cada degrau",
+          "objetivo": "Mapear a evolução do avatar na escada de valor",
+          "link_referencia": "https://mm.tt/app/map/3363449445?t=YzskHHffDU"
+        },
+        "PASSO 2": {
+          "titulo": "CONSTRUIR OFERTAS DO MESMO MÉTODO, COM FORMATOS DIFERENTES PARA AUMENTAR A PERCEPÇÃO DE VALOR EM CADA DEGRAU",
+          "descricao": "Garantir que cada degrau tenha um valor percebido diferente",
+          "componentes": [
+            "Aumentar percepção de valor de 1 degrau para o outro",
+            "Construir produtos em formatos diferentes",
+            "Os 7 tipos de oferta para ascender os clientes"
+          ],
+          "links_referencia": [
+            "https://mm.tt/app/map/3194476826?t=s8ueSUkBF3",
+            "https://mm.tt/app/map/2910126115?t=Klj2MEaYCR",
+            "https://mm.tt/app/map/3457536125?t=6ppbU3bLg4"
+          ]
+        },
+        "PASSO 3": {
+          "titulo": "TROCAR O FORMATO DO FUNIL POR UM QUE ELE AINDA NÃO VIVENCIOU",
+          "descricao": "Variar formatos de funil para manter novidade e engajamento"
+        },
+        "PASSO 4": {
+          "titulo": "ADAPTAR A PROMESSA DO FUNIL E A ABORDAGEM DO FUNIL A QUEM ELE É",
+          "descricao": "Adaptar promessa/headlines para atenderem ao desejo e curiosidade dele",
+          "componentes": [
+            "Desejo dele (baseado em quem ele é e onde ele está agora)",
+            "Curiosidade (baseado em quem ele é e onde ele está agora)",
+            "Headlines das promessas de cada degrau",
+            "Como fazer esse cliente se cadastrar MAIS FORTE no próximo funil"
+          ],
+          "links_referencia": [
+            "https://mm.tt/app/map/3363461563?t=8NoFc6Wd1L",
+            "https://mm.tt/app/map/3202073724?t=A9iyDlmzEJ"
+          ]
+        },
+        "PASSO 5": {
+          "titulo": "DOUTRINAR A PESSOA PARA DESEJAR ENTRAR NO FUNIL QUE VOCÊ IRÁ APRESENTAR EM BREVE",
+          "descricao": "Processo de doutrinação em 5 sub-passos",
+          "sub_passos": [
+            "1. Gerar Consciência do próximo produto",
+            "2. Aumentar o Desejo pelo próximo produto (Seeding, Histórias de resultado, Demonstração de diferença)",
+            "3. Aumentar o Tempo de Consumo (Sequência de consumo, formatos que geram muito valor)",
+            "4. Aumento de um SUB-Problema Sentido",
+            "5. Convida em entrar em algum funil grátis que soluciona EXATAMENTE ESSE PROBLEMA"
+          ]
+        },
+        "PASSO 6": {
+          "titulo": "DOUTRINAR PREVIAMENTE A PESSOA PARA DESEJAR O PRODUTO QUE VOCÊ AINDA NEM OFERTOU",
+          "descricao": "A Oferta de um produto que é perfeito para AQUELE MOMENTO + Algo que ela desejava"
+        },
+        "PASSO 7": {
+          "titulo": "USAR HOOKS DE TRÁFEGO INTERNO PRA FAZER MAIS PESSOAS ENTRAREM",
+          "descricao": "Geração de tráfego interno",
+          "componentes": [
+            "Os hooks de tráfego interno",
+            "Os Hooks Para Fazer Os Leads Se Moverem E entrarem em algum funil de Ascensão"
+          ],
+          "rotina_foco": [
+            "1. Vendas e Potenciais",
+            "2. Conteúdo / Tráfego Orgânico",
+            "3. Cuidar Do Cliente"
+          ]
+        },
+        "PASSO 8": {
+          "titulo": "RECUPERAR PESSOAS QUE AINDA NÃO ASCENDERAM",
+          "descricao": "CALENDÁRIO DE CAMPANHAS DE ASCENSÃO"
+        }
+      },
+      "objetivo": "Transformar clientes parados em toneladas de dinheiro através de ascensão sistemática"
+    }
+  ],
+  "tipos_ascensao": {
+    "Empilhamento de Funil": {
+      "descricao": "Estratégia de empilhar funis em sequência",
+      "tipo": "Estrutural"
+    },
+    "Ascensão Imediata": {
+      "descricao": "Ascensão que acontece imediatamente após uma ação",
+      "subtipos": {
+        "Ascensão Interna": {
+          "descricao": "Pela área de membros",
+          "mecanismo": "Dentro da plataforma/área de membros"
+        },
+        "Ascensão Externa": {
+          "descricao": "Pelas Mensagens",
+          "mecanismo": "Via email, WhatsApp ou outras mensagens externas"
+        }
+      }
+    },
+    "Calendário de Ascensão": {
+      "descricao": "Para buscar quem ficou para trás e não subiu por conta própria",
+      "subtipos": {
+        "Campanhas Periódicas": {
+          "frequencias": [
+            "Mensais",
+            "Bi-mensais",
+            "Trimestrais"
+          ],
+          "referencia": "Estilo Calendário Que Passei Pro MAC"
+        },
+        "Ascensões Semanais Por Degrau": {
+          "descricao": "Por Planejamento Estilo Lucidchart",
+          "frequencia": "Semanal",
+          "organizacao": "Por degrau específico"
+        }
+      }
+    }
+  },
+  "tipos_funis": {
+    "Automáticos": {
+      "descricao": "Funis totalmente automatizados",
+      "regra_ouro": "Sempre Ascende Primeiro Automático, Depois Semi, Depois Manual",
+      "prioridade": 1
+    },
+    "Semi-automáticos": {
+      "descricao": "Funis com automação parcial e intervenção humana",
+      "prioridade": 2
+    },
+    "Manuais": {
+      "descricao": "Funis com processo manual de ascensão",
+      "prioridade": 3
+    },
+    "Com E-mails": {
+      "descricao": "Funis que utilizam sequências de email",
+      "tipo": "Canal específico"
+    }
+  },
+  "estrategias_automaticas": {
+    "regra_ouro": "Sempre Ascende Primeiro Automático, Depois Semi, Depois Manual",
+    "sequencia_prioridade": [
+      "Automático",
+      "Semi-automático",
+      "Manual"
+    ],
+    "mecanismos_automaticos": [
+      "FUNIL DE CUPOM DE DESCONTO",
+      "MINI ASCENSÕES",
+      "TRIAL MIFGE + DOUTRINAÇÃO GERAL + PÁGINA DE VENDAS",
+      "WEBINAR AUTOMÁTICO",
+      "BANNERS",
+      "EMAILS AUTOMATIZADOS",
+      "UPSELLS DO TRIP + E-MAILS DE VENDAS DO INGRESSO"
+    ],
+    "mecanismos_semi_automaticos": [
+      "LIGAÇÃO DE 2 ETAPAS",
+      "CALL DE BOAS VINDAS/ONBOARDING",
+      "CALL DE ENTREGA DE BÔNUS"
+    ],
+    "mecanismos_manuais": [
+      "CALENDARIO DE ASCENSAO POR DEGRAU",
+      "CAMPANHAS DE ASCENSAO MANUAIS",
+      "EVENTO MENSAL",
+      "MAPEAMENTO DE LEADS QUALIFICADOS NO CRM",
+      "GERADORES DE CONVERSAS PARA VENDEDORES"
+    ]
+  },
+  "estrutura_ofertas": {
+    "7_tipos_oferta": {
+      "descricao": "7 tipos de oferta para ascender os clientes",
+      "link_referencia": "https://mm.tt/app/map/3457536125?t=6ppbU3bLg4",
+      "principios": [
+        "Elas devem ser sobre o método que ele já acreditou",
+        "Elas devem deixar tudo mais fácil",
+        "Elas podem/devem aumentar o status da pessoa",
+        "Elas devem dar a eles a sensação de mais proximidade"
+      ],
+      "gatilhos_psicologicos": [
+        "Menos trabalho",
+        "Menos esforço",
+        "Menos tempo",
+        "Mais fácil",
+        "Mais pronto",
+        "Mais perto do especialista",
+        "Mais suporte",
+        "Mais ajuda",
+        "Novas experiências",
+        "Mais legal/divertido/interessante"
+      ]
+    },
+    "estrutura_tripwire": {
+      "componentes": [
+        "1. TREINAMENTO (Aula de boas vindas + Aulas do treinamento + Descrição em texto de cada aula)",
+        "2. BÔNUS (Aulas bônus + Descrição em texto + Links para produtos superiores)",
+        "3. PRÓXIMOS PASSOS RECOMENDADOS (Qual é o próximo passo + CTA formação/mentoria + Junte-se ao produto principal)"
+      ],
+      "regra_critica": "SEMPRE DOUTRINAR PARA O PRÓXIMO NÍVEL DA SUA ESCADA DE VALOR",
+      "formato_descricao_aula": "Detalhamento + Descrição em negrito linkando para checkout do mensal"
+    },
+    "construcao_rapida_escada": {
+      "criando_5_produtos_de_1_metodo": [
+        "1. FERRAMENTAS DO MÉTODO (Ferramentas, Templates, Scripts)",
+        "2. ASSINATURA DE CLUBE DO MÉTODO (De práticas melhoradas ou práticas de uso)",
+        "3. TREINAMENTO DE APLICAÇÃO PRÁTICA DO MÉTODO - ASSINATURA NÍVEL 2 (Implementação guiada, Checklists)",
+        "4. EVENTO DO MÉTODO",
+        "5. SERVIÇO DO MÉTODO - MICRO-HIGHTICKET ASSINATURA NÍVEL 3 (Serviço, Mentoria guiada, Outros formatos)"
+      ]
+    }
+  },
+  "funis_campanhas": {
+    "tipos_funis_frontend": {
+      "1. MINI ASCENSÕES EM AULAS": {
+        "descricao": "Itens De Ação Prontos",
+        "tipo": "Micro-conversões dentro do conteúdo"
+      },
+      "2. WORKSHOP WEBINAR": {
+        "descricao": "Para Assinatura 2",
+        "objetivo": "Ascender para assinatura de nível superior"
+      },
+      "3. FUNIL DE CUPOM DE DESCONTO": {
+        "descricao": "Micro Workshops de Temas Sexys",
+        "objetivo": "Que são parte da assinatura 1 e doutrinam para que a pessoa seja parte da assinatura 1"
+      },
+      "4. CALL PARA LIBERAR OS BÔNUS": {
+        "descricao": "OBRIGATÓRIA DE 2 ETAPAS",
+        "objetivo": "Ascender para Assinatura 2",
+        "mecanismo": "Call em 2 etapas obrigatórias"
+      },
+      "5. BANNERS DE DÚVIDA SOBRE O TÓPICO": {
+        "descricao": "Para Assinatura 1",
+        "detalhes": "Banners perguntando se tem dúvida e quer respostas, para mostrar que na assinatura tem como tirar dúvidas. Também pode ter banners que são diretos, dando a chance do trial"
+      },
+      "6. ESTUDO DE CASO DE ALUNOS": {
+        "descricao": "Para Assinatura 3 Highticket",
+        "objetivo": "Demonstrar resultados de alunos do próximo nível"
+      },
+      "7. MÓDULO DE PRÓXIMOS PASSOS": {
+        "descricao": "Para Assinatura 3 Highticket",
+        "sub_passos": {
+          "1. Vamos para O Seu Próximo Passo Mais Rápido": {
+            "tipo": "AULA QUE MATA OBJEÇÕES",
+            "objetivo": "Mata objeções que impediriam a pessoa de avançar para outro nível",
+            "foco": "Objeções mais internas, ou emocionais"
+          },
+          "2. AULA: INDICAÇÃO DE PRODUTO QUE SERVE DE ANCORAGEM": {
+            "exemplo": "INDICAÇÃO DE HIGHTICKET",
+            "detalhe": "Quando ele clica e cai na página de vendas do highticket já tem preço exposto"
+          },
+          "3. PITCH PARA O PRODUTO PRINCIPAL QUE VOCÊ QUER VENDER": {
+            "formatos": [
+              "VSL",
+              "Pitch direto"
+            ],
+            "regra": "Apertar bastante no problema que ele tem agora e que é resolvido no próximo passo",
+            "acao": "Joga direto para o checkout personalizado com muitos detalhes sobre o produto e prova"
+          },
+          "OUTROS PRODUTOS QUE TALVEZ TE INTERESSEM": {
+            "implementacao": "Criar página final EMBEDADA por código que mostre vários produtos que os alunos daquele produto geralmente adquirem com preço promocional só para alunos"
+          }
+        }
+      }
+    },
+    "tipos_funis_backend": {
+      "WEBINAR AUTOMÁTICO": {
+        "tipo": "Automático",
+        "objetivo": "Venda de produtos superiores"
+      },
+      "CALL OBRIGATÓRIA DE 2 ETAPAS": {
+        "tipo": "Semi-automático",
+        "objetivo": "Qualificação e fechamento"
+      },
+      "CALL DE ENTREGA DE BÔNUS": {
+        "tipo": "Manual",
+        "objetivo": "Criar momento de conexão e venda"
+      },
+      "ELE FOI PREMIADO COM LIGAÇÃO DE ACELERAÇÃO GRATUITA": {
+        "local": "Na página de obrigado após comprar o Backend",
+        "regras_pricing": {
+          "Para produtos de 10k": "Precisa ser na página de obrigado de quem comprou no mínimo 997",
+          "Para produtos de 5k": "Esta página precisa ser plugada somente na página de obrigado de quem comprou no mínimo 497",
+          "Para produtos abaixo de 3.000": "Esta página pode ser plugada na página de obrigado de qualquer preço. Geralmente funciona mesmo para lead frio, então para compradores de tripwire e fronts de até 297 também funciona"
+        },
+        "follow_up": "Envia Emails lembrando da call de aceleração, caso ele não tenha agendado a call ainda"
+      },
+      "DAR DE BÔNUS GRAVAÇÃO DE IMERSÃO DE 3 HORAS QUE TINHA PITCH PARA A MENTORIA": {
+        "tipo": "Conteúdo seed",
+        "objetivo": "Doutrinação através de imersão"
+      },
+      "GRAVAÇÃO DE ESTUDO DE CASO DE ALUNA QUE TEVE MUITO SUCESSO": {
+        "descricao": "E era aluna do próximo produto/nível (colocado na área de membros)",
+        "estrutura": {
+          "Conteúdo": "Dar de bônus um estudo detalhado da estratégia da Aluna que investiu 5k e faturou 80k",
+          "Seeding": "Durante a call você fica sempre doutrinando e fazendo seeding do próximo produto",
+          "CTA": "Quer ajuda para Ter Um Resultado Como O Dela?",
+          "Sequência": [
+            "No fim do vídeo do estudo de caso, você vai aparecer e vai fazer um CTA para um vídeo",
+            "Joga Para VSL de 10 minutos apresentando o método para venda de backend de acompanhamento",
+            "No Botão, coloca popup de captura de e-mail e Whatsapp",
+            "Joga para Aplicação Para Uma Ligação de apresentação",
+            "Se ela preencher, assistir o vídeo de 10 minutos mas não aplicar, então se inicia a sequência de e-mails com os outros estudos infinitos que doutrinam a pessoa a estar na mentoria",
+            "Ligação De Apresentação com perguntas de identificação de dor e problema"
+          ]
+        }
+      },
+      "CALL DE SETUP/BOAS VINDAS PARA NOVOS MEMBROS": {
+        "estrutura": [
+          "BOAS VINDAS",
+          "PERGUNTA SE ESTÁ ANSIOSO",
+          "QUAIS SÃO OS PLANOS",
+          "AJUDA A SE SITUAR NA PLATAFORMA OU FERRAMENTA",
+          "VOCÊ SABIA QUE TEM UM FORMATO DESSE MESMO PRODUTO COM ACOMPANHAMENTO, X, Y, Z?",
+          "CUSTA X, MAS COMO VC JÁ PAGOU Y, VC PAGA SÓ O RESTANTE... E VC TEM ACOMPANHAMENTO, CALLS, ETC..."
+        ]
+      },
+      "DAR INGRESSO PARA EVENTO QUE ACONTECE A CADA 30 DIAS": {
+        "preco_nao_clientes": "297",
+        "descricao": "Evento dos alunos que acontece a cada 3 meses ou a cada 1 mes",
+        "implementacao": {
+          "Calendário": "Disponível na área de membros mostrando a cada quanto tempo acontece",
+          "Seeding": "Sempre ter seeding do evento, antecipação, falar de quem vai palestrar",
+          "Duração": "Evento de 2 a 3 dias, somente para clientes",
+          "Objetivo": "Puxa para highticket",
+          "Frequência": "A cada 3 meses online"
+        },
+        "passos": [
+          "Crie um nome para o evento",
+          "Crie uma promessa",
+          "Faça antecipação via email e rmkt",
+          "Traga convidados e palestrantes especiais",
+          "É realmente um evento onde no final você ascende ele para um produto highticket"
+        ]
+      },
+      "FUNIL DE CUPOM DE DESCONTO MAIS CARO": {
+        "descricao": "O mesmo funil de cupom de desconto, porém de coisas mais caras",
+        "preco_medio": "R$297 a R$397"
+      },
+      "MINI ASCENSÕES POR DENTRO DO PRODUTO BACKEND": {
+        "descricao": "Itens De Ação Prontos",
+        "implementacao": "BANNER e Ctas por dentro das aulas PARA ALGUMA OFERTA OU PACK MUITO VANTAJOSO QUE CUSTE MUITO POUCO!",
+        "filosofia": "Mesmo que eles sejam clientes de Backend, precisamos fazer eles continuarem crendo! Continuarem se movendo! Assim eles continuam crendo no método. Focados na implementação. Se você não fizer isso, eles se distrarem com outros gurus fazendo barulho na internet.",
+        "produtos": "Produto de coisas prontas que custa: R$7, R$17, R$37 reais... Algo incrível, muito barato",
+        "objetivo_real": "Não é ascensão! É fazer ela ENTRAR e PERMANECER no ciclo de compra sem parar! (Buying Frenezy)",
+        "jogo": [
+          "COMPROU DE VOCÊ > TEVE EXPERIÊNCIA BOA ALÉM DO QUE ESPERAVA",
+          "COMPROU DE VOCÊ > TEVE EXPERIÊNCIA BOA ALÉM DO QUE ESPERAVA",
+          "O que acha que vai acontecer quando você fizer um pitch de R$997 ou mais?",
+          "Pq isso gera um ciclo de compra maior e um nível de confiança quase absoluta de que sempre que comprar de você, vai ser agradado ou surpreendido.",
+          "Isso facilita as ascensões para produtos maiores."
+        ]
+      }
+    },
+    "calendario_campanhas": {
+      "descricao": "Criar calendário de postagens por degrau e campanhas de ascensão",
+      "componentes": [
+        "CRIAR CALENDÁRIO DE POSTAGENS POR DEGRAU",
+        "CRIAR CALENDÁRIO DE CAMPANHAS DE ASCENSÃO",
+        "Definir quais são os FORMATOS de tipo de ascensão para cada degrau"
+      ]
+    },
+    "campanhas_renovacao_highticket": {
+      "estrategia_principal": "Fazer membros CONSUMIREM, USAREM e VOLTAREM constantemente",
+      "frequencia": [
+        "Semanal",
+        "Quinzenal",
+        "Mensal"
+      ],
+      "habitos_criar": [
+        "Hábito de Consumo",
+        "Hábito de Usar o que você provê - MAS SEM POSSUIR PRA SÍ (PORQUE O JOGO É FAZÊ-LOS DEPENDER DE VOCÊ PARA TER O QUE ELES USAM SEMPRE)"
+      ],
+      "coisas_programadas_por_tempo": {
+        "treinamentos_mensais": "Grava 12, libera 1 por mês com títulos apelativos",
+        "podcasts_fechados": "Grava 12, libera 1 por mês com pessoas de relevância",
+        "automacao": "Dispara avisos cheio de promessas e spoilers com vários e-mails para incentivar consumo"
+      },
+      "evolucao_progressiva": {
+        "PRIMEIRO_CICLO": [
+          "TREINAMENTO POR MÊS"
+        ],
+        "SEGUNDO_CICLO": [
+          "TREINAMENTO POR MÊS",
+          "PODCAST SECRETO POR MÊS"
+        ],
+        "TERCEIRO_CICLO": [
+          "TREINAMENTO POR MÊS",
+          "PODCAST SECRETO POR MÊS",
+          "CLOSEFRIENDS DO MÊS"
+        ]
+      },
+      "nomenclatura": "DÊ UM NOME DIFERENTE para CALOUROS, SEGUNDO ANO, TERCEIRO ANO",
+      "gamificacao": "DEIXE QUE OS VETERANOS CRIEM UMA PEGADINHA PARA OS CALOUROS/NOVATOS A CADA ENCONTRO (aumenta renovação)",
+      "campanhas_longas": {
+        "exemplo_agora_financial": "Teste de 6 meses antes de começar campanhas, ofertas para quem renova em 6, 5, 4, 3 meses. 26% renovação na primeira campanha",
+        "principio": "Deixar a campanha longa dá tempo de ter alta taxa de renovação"
+      },
+      "centro_de_tudo": "É VOCÊ TER UMA OFERTA, UMA PROPOSTA DE VALOR, E UMA VANTAGEM QUE ELE SÓ PODE OBTER COM VOCÊ!"
+    }
+  },
+  "psicologia": {
+    "hooks_trafego_interno": {
+      "DAR IMÃ GRÁTIS POR E-MAIL + AULA DE USO": {
+        "mecanismo": "Na página pós cadastro vira oferta de algum produto",
+        "tipo": "Lead magnet com upsell"
+      },
+      "EMAILS DE CONSUMO + RELACIONAMENTO": {
+        "tipos": [
+          "HISTÓRIAS DO EXPERT - ENTRETENIMENTO - CONSELHOS - EMOCIONAIS",
+          "EMAILS DE CONTEÚDO PURO",
+          "PROVAS",
+          "PUXANDO PARA AULAS",
+          "CONVITE PARA OS FUNIS EM ORDEM, 1 POR 1"
+        ],
+        "sequencia_consumo": [
+          "Emails de conteúdo puro (No próprio e-mail, Conteúdo de um podcast, Conteúdo de um vídeo do youtube)",
+          "Emails para ver gravação de você mentorando alguém",
+          "Emails para ver o estudo de caso de aluna",
+          "Emails para ver o workshop grátis de bônus que ela ganhou",
+          "Emails para ela assistir a gravação da aula secreta ou imersão que você deu",
+          "Emails para ela ir para o evento que ela ganhou o ingresso, fazendo antecipação",
+          "Emails para participar da call com os treinadores onde ela desbloqueia e pega os bônus",
+          "Emails para ela participar da análise gratuita",
+          "Emails de história de sucesso dos alunos",
+          "Sequencia de venda direta do próximo passo por e-mails por 7 dias"
+        ]
+      },
+      "2 DIAS DEPOIS DA COMPRA - BÔNUS GRÁTIS PARA CHAMAR NO DIRECT": {
+        "timing": "2 dias depois da compra",
+        "objetivo": "Iniciar conversa no direct/WhatsApp"
+      },
+      "NÃO COMPROU NO WEBINAR - EMAIL: VOCÊ JÁ CONVERSOU COMIGO?": {
+        "timing": "1 DIA DEPOIS",
+        "mecanismo": "Puxa a pessoa para chamar no DIRECT com uma palavra chave para saber que ela veio DO WEBINAR",
+        "objetivo": "Time comercial ajuda a pessoa a tirar suas inseguranças, dúvidas e converte por lá"
+      },
+      "E-MAIL DE 'PODE ME FAZER UM FAVOR?'": {
+        "timing": "Após comprar um Trip ou Frontend",
+        "mecanismo": "Perguntando se a pessoa já entrou no PROGRAMA DO PRÓXIMO PASSO (BACKEND DE 997)",
+        "estrategia": "As pessoas muitas vezes nem sabem desse próximo programa mas este e-mail inicia uma conversa de vendas",
+        "implementacao": {
+          "Link": "Quando cita o nome do produto no email, tem link pro checkout. Quando clica na foto também",
+          "Checkout personalizado": "Com depoimentos, Mockup, Promessa e Bulletpoints do que é o programa e dos benefícios. O Checkout também tem Chat de Dúvidas sobre a compra"
+        }
+      }
+    },
+    "doutrinacoes": {
+      "NA PRIMEIRA OU SEGUNDA AULA DOS FRONTS - APRESENTAR A PLATAFORMA E TODOS OS DEGRAUS": {
+        "objetivo": "Deixar ela consciente e gerar desejo de para onde ela pode ir com você agora ou em breve",
+        "nome": "Conscientização da escada no começo"
+      },
+      "PRODUTOS BLOQUEADOS À MOSTRA NA ÁREA DE MEMBROS": {
+        "mecanismo": "Deixar área de membros com os produtos à mostra, porém bloqueados para gerar consciência dos outros produtos que teria para comprar",
+        "implementacao": "Cada ícone dos produtos tem o link para o funil que vende o mesmo"
+      },
+      "DAR GRAVAÇÃO DE TRECHO DE VOCÊ MENTORANDO ALGUÉM AO VIVO": {
+        "descricao": "Gravação de mentoria acontecendo ao vivo que você deu a alguém que foi super detalhada, incrível, montando plano para a pessoa e que a pessoa amou"
+      },
+      "FAZER AS PESSOAS VEREM A DIFERENÇA DO QUE ELES NÃO TEM ACESSO TODA HORA": {
+        "exemplo_estrutura": {
+          "Assinatura mensal": "Assiste gravado",
+          "Assinatura backend": "Assiste ao vivo no youtube e pode perguntar no chat",
+          "Assinatura highend": "Assiste no zoom e pode abrir pra perguntas e ser ajudado ao vivo"
+        },
+        "psicologia": [
+          "Na gravação que as pessoas da assinatura mensal assistem, eles veem que tem pessoas do backend fazendo perguntas, e o professor fica respondendo e brincando com eles",
+          "Isso demonstra ser ao vivo. As pessoas do mensal se perguntam: Mas porque eu nunca estou nessas aulas ao vivo?",
+          "Na aula ao vivo, quem pergunta no chat, vê que em alguns momentos da aula, você abre pra algumas pessoas no zoom perguntarem falando",
+          "Eles veem o expert se despedindo de quem é do backend, mas que agora tem alguns detalhes que ele tem que passar só pra quem é mentorado ou do mastermind"
+        ],
+        "regra": "VOCÊ TEM QUE TER E-MAILS DE NOTIFICAÇÃO SOBRE OS EVENTOS DA EMPRESA! Esses E-MAILS precisam ser e-mails que informam sobre TODOS OS DEGRAUS em um e-mail só. Porque quem é da assinatura mensal ou front, veem acontecendo os eventos do backend, e veem acontecendo os encontros e eventos e histórias do que está acontecendo no highend."
+      },
+      "AJUSTES PARA FAZER POR DENTRO DO PRODUTO": {
+        "SEEDING NAS AULAS SOBRE O PRÓXIMO NÍVEL": [
+          "Todas as vezes que for falar a história de alguém, conte sempre a história de um aluno do próximo passo",
+          "Abaixo das aulas podem ter prints de resultados de pessoas que conseguiram. Mas estavam no próximo produto",
+          "Você pode ter vídeos de depoimento de alunos dos produtos do próximo nível",
+          "Quanto mais nessas partes os alunos mostrarem: Mais proximidade com o mentor, Citarem tipos de experiências que eles tem lá que no degrau anterior não tem, Técnicas novas com nomes que as pessoas do degrau anterior não sabem o nome, Citarem tipos de suporte que tiveram que quem está no degrau anterior não tem"
+        ],
+        "ATENÇÃO - CRIAR UM PROBLEMA QUE SÓ SE RESOLVE NO PRÓXIMO PRODUTO": {
+          "regras": [
+            "1. TEM QUE SER O MELHOR PRIMEIRO BEIJO QUE A PESSOA JÁ DEU NA VIDA",
+            "2. ELE TEM QUE SER RÁPIDO DE CONSUMIR. NO MÁXIMO LEVAR ALGUNS DIAS PARA CONSUMIR (2 A 7 DIAS)",
+            "3. PREGA SOBRE O PRODUTO PRINCIPAL",
+            "4. É ACOMPANHADO DE UMA CARTA DE VENDAS PARA O PRÓXIMO PRODUTO",
+            "5. TEM QUE CRIAR NA CABEÇA DA PESSOA UM OUTRO PROBLEMA (QUE NATURALMENTE JÁ É CRIADO QUANDO VC RESOLVE O PROBLEMA PELO QUAL ELE COMPROU ESTE PRODUTO)"
+          ],
+          "exemplo": "SE NO TRIP VC ENSINOU A CRIAR UM VÍDEO VIRAL, AGORA ELE TEM UM PROBLEMA DE SABER O QUE FAZER COM TANTA GENTE ASSISTINDO O VÍDEO. COMO CAPTURA LEADS? COMO FAZ VENDA PRA ELES?",
+          "implementacao": "E PRECISA DISSEMINAR DENTRO DO PRODUTO, QUE É NECESSÁRIO RESOLVER ESSE PROBLEMA. BATER BASTANTE NISSO. LOGO EM SEGUIDA, A PROMESSA DO OUTRO FUNIL QUE VAI VENDER O PRÓXIMO PRODUTO É EXATAMENTE SOBRE COMO RESOLVER O PROBLEMA QUE FOI CRIADO NO PRODUTO ANTERIOR."
+        }
+      },
+      "FLUXO DE DOUTRINAÇÃO DE ASCENSÃO DE CLIENTES NOS PRODUTOS": {
+        "0. DEFINIR A ÚNICA COISA": {
+          "pergunta": "QUAL É A ÚNICA COISA QUE SE O PÚBLICO QUE COMPROU ESTE PRODUTO, CRER, ELES NÃO TEM OUTRA OPÇÃO HÁ NÃO SER COMPRAR DE MIM?"
+        },
+        "1. CURIOSIDADE CLICKBAIT PARA FISGAR A ATENÇÃO": {
+          "mecanismos": [
+            "1. QUEBRA DE PADRÃO - USAR MANCHETES CLICKBAIT para gerar muito acesso!",
+            "2. SER EM UM FORMATO/POSICIONAMENTO DIFERENTE - Ou você é diferente ou você nem existe!",
+            "3. Pode usar coisas que a pessoa conhece: Pessoas, Objetos, Situações",
+            "4. MOSTRAR RESULTADO DOS SONHOS",
+            "5. QUE FOI CONQUISTADO DE UMA FORMA QUE TEM LÓGICA, MAS É CONTRADITÓRIA",
+            "6. QUER ENTENDER?... CTA"
+          ]
+        },
+        "2. CONFIANÇA": [
+          "1. AUTORIDADE",
+          "2. VÍNCULO EMOCIONAL POR CONEXÃO COM PRINCÍPIOS E VALORES"
+        ],
+        "3. ESPERANÇA": [
+          "1. DISSEMINAÇÃO DO PRÓXIMO PROBLEMA AO LONGO DO PRODUTO",
+          "2. PROMESSAS",
+          "3. HISTÓRIAS E NARRATIVAS QUE GERAM CRENÇAS NA NECESSIDADE DO PRÓXIMO TIPO DE PRODUTO",
+          "4. PROVAS DE RESULTADO DE ALUNOS (MOSTRAR TODO TIPO DE GENTE! ATÉ CASOS DIFÍCEIS DE ACREDITAR QUE DARIAM CERTO)",
+          "5. LIVRANDO DAS OBJEÇÕES, PREOCUPAÇÕES E MEDOS QUANTO ÀS IMPOSSIBILIDADES"
+        ],
+        "4. DESEJO": [
+          "1. MOTIVOS PELO QUAL DEVERIA",
+          "2. DIFERENÇA",
+          "3. VANTAGENS",
+          "4. BENEFÍCIOS EXTRAS GERADOS",
+          "5. MAIS PROVAS",
+          "6. AUMENTO DE STATUS"
+        ],
+        "5. HOOKS": [
+          "1. CURIOSIDADE",
+          "2. RESULTADO DOS SONHOS DESTE AVATAR",
+          "3. ÂNGULO DE NARRATIVA DE COMO AQUILO ACONTECEU, CONTRADITÓRIO, MAS CRÍVEL",
+          "4. CTA PARA ALGUMA AÇÃO"
+        ]
+      }
+    },
+    "fluxo_doutrinacao_completo": {
+      "0_definir_unica_coisa": "QUAL É A ÚNICA COISA QUE SE O PÚBLICO QUE COMPROU ESTE PRODUTO, CRER, ELES NÃO TEM OUTRA OPÇÃO HÁ NÃO SER COMPRAR DE MIM?",
+      "1_curiosidade_clickbait": [
+        "QUEBRA DE PADRÃO - USAR MANCHETES CLICKBAIT",
+        "SER EM UM FORMATO/POSICIONAMENTO DIFERENTE",
+        "Usar coisas que a pessoa conhece (Pessoas, Objetos, Situações)",
+        "MOSTRAR RESULTADO DOS SONHOS",
+        "QUE FOI CONQUISTADO DE UMA FORMA QUE TEM LÓGICA, MAS É CONTRADITÓRIA",
+        "QUER ENTENDER?... CTA"
+      ],
+      "2_confianca": [
+        "AUTORIDADE",
+        "VÍNCULO EMOCIONAL POR CONEXÃO COM PRINCÍPIOS E VALORES"
+      ],
+      "3_esperanca": [
+        "DISSEMINAÇÃO DO PRÓXIMO PROBLEMA AO LONGO DO PRODUTO",
+        "PROMESSAS",
+        "HISTÓRIAS E NARRATIVAS QUE GERAM CRENÇAS",
+        "PROVAS DE RESULTADO DE ALUNOS (MOSTRAR TODO TIPO DE GENTE!)",
+        "LIVRANDO DAS OBJEÇÕES, PREOCUPAÇÕES E MEDOS"
+      ],
+      "4_desejo": [
+        "MOTIVOS PELO QUAL DEVERIA",
+        "DIFERENÇA",
+        "VANTAGENS",
+        "BENEFÍCIOS EXTRAS GERADOS",
+        "MAIS PROVAS",
+        "AUMENTO DE STATUS"
+      ],
+      "5_hooks": [
+        "CURIOSIDADE",
+        "RESULTADO DOS SONHOS DESTE AVATAR",
+        "ÂNGULO DE NARRATIVA CONTRADITÓRIO, MAS CRÍVEL",
+        "CTA PARA ALGUMA AÇÃO"
+      ]
+    },
+    "regras_facilitadoras": {
+      "Disseminar problema que só o próximo passo resolve": {
+        "tipos": [
+          "Pode ser problema de conhecimento",
+          "Pode ser problema de suporte",
+          "Pode ser problema de status",
+          "Nem sempre é conhecimento a mais. Ex: Posso disseminar o problema de estar sempre só, e de que ambiente muda todo o jogo, para doutrinar da necessidade de ir para o mastermind"
+        ]
+      },
+      "Definir a única crença": {
+        "regra": "Você deve definir a única crença que deve usar como argumento para ascender a pessoa para o próximo degrau. Se você ficar tentando convencer de muitas coisas, perderá força. Mas se ao longo do produto, toda vez que for doutrinar for da mesma crença, isso ficará forte na cabeça do cliente. Se ele acreditar, então compra a próxima coisa."
+      },
+      "As próximas ofertas tem que ser Sexys": {
+        "criterios": [
+          "Elas devem ser sobre o método que ele já acreditou",
+          "Elas devem deixar tudo mais fácil",
+          "Elas podem/devem aumentar o status da pessoa",
+          "Elas devem dar a eles a sensação de mais proximidade"
+        ],
+        "gatilhos": [
+          "Menos trabalho",
+          "Menos esforço",
+          "Menos tempo",
+          "Mais fácil",
+          "Mais pronto",
+          "Mais perto do especialista",
+          "Mais suporte",
+          "Mais ajuda",
+          "Novas experiências",
+          "Mais legal/divertido/interessante"
+        ]
+      },
+      "LOTAR TODOS OS PRODUTOS DE ESPERANÇA": [
+        "MOSTRA QUE É POSSÍVEL!",
+        "GENTE SIMPLES CONSEGUE!"
+      ]
+    },
+    "criacao_problema_novo": {
+      "regra": "TEM QUE CRIAR NA CABEÇA DA PESSOA UM OUTRO PROBLEMA (QUE NATURALMENTE JÁ É CRIADO QUANDO VC RESOLVE O PROBLEMA PELO QUAL ELE COMPROU ESTE PRODUTO)",
+      "exemplo": "SE NO TRIP VC ENSINOU A CRIAR UM VÍDEO VIRAL, AGORA ELE TEM UM PROBLEMA DE SABER O QUE FAZER COM TANTA GENTE ASSISTINDO O VÍDEO",
+      "implementacao": "E PRECISA DISSEMINAR DENTRO DO PRODUTO, QUE É NECESSÁRIO RESOLVER ESSE PROBLEMA. BATER BASTANTE NISSO. A PROMESSA DO OUTRO FUNIL É EXATAMENTE SOBRE COMO RESOLVER O PROBLEMA QUE FOI CRIADO"
+    },
+    "evolucao_avatar_na_escada": {
+      "principio": "Cada Cliente é OUTRO AVATAR em cada degrau",
+      "link": "https://mm.tt/app/map/3363449445?t=YzskHHffDU",
+      "aplicacao": "Adaptar promessa/headlines para atenderem ao DESEJO e CURIOSIDADE dele baseado em quem ele é e onde ele está agora"
+    }
+  },
+  "centros_lucro": {
+    "descricao": "Como Transformar Os Seus Clientes De Lowticket Em Uma Tonelada De Lucro! Múltiplos 7 Dígitos De Ascensão",
+    "lista_20_centros": [
+      "CENTRO 1: Captura De Leads Com No Optin",
+      "CENTRO 2: Bump de Pré-checkout",
+      "CENTRO 3: Remarketing Funcional",
+      "CENTRO 4: 4 Orderbumps",
+      "CENTRO 5: Upsell de Exit Popup",
+      "CENTRO 6: Upsell 1",
+      "CENTRO 7: Upsell 2",
+      "CENTRO 8: Upsell 3",
+      "CENTRO 9: Ofertas de Downsell",
+      "CENTRO 10: Página De Obrigado Final com Soft-Sell",
+      "CENTRO 11: Campanhas de Abandono de Upsell",
+      "CENTRO 12: Chat Ao Vivo No Checkout",
+      "CENTRO 13: Campanha de Abandono de Carrinho Por Call",
+      "CENTRO 14: Campanha de Abandono De Carrinho Por SMS/Email",
+      "CENTRO 15: Call de Boas Vindas/Onboarding Com Monetização",
+      "CENTRO 16: Promoção De Boas Vindas Por Email Direto",
+      "CENTRO 17: Promoção De Boas Vindas Parte 2 - Followup",
+      "CENTRO 18: Oferta de Highticket na Traseira",
+      "CENTRO 19: Campanha de Reconhecimento De Marca (Remarketing para os clientes) com conteúdo de valor",
+      "CENTRO 20: Ofertas Backend Para Leads"
+    ],
+    "nota": "Você precisa ter as ofertas certas para as centrais de lucro"
+  },
+  "metricas": {
+    "kpis_ascensao": [
+      "Taxa de ascensão por degrau",
+      "Tempo médio para ascender",
+      "Valor médio por cliente na escada",
+      "Taxa de renovação por nível",
+      "ROI por centro de lucro",
+      "Taxa de conversão de campanhas de recuperação"
+    ],
+    "exemplo_renovacao": {
+      "caso": "Ágora Financial",
+      "campanha": "6 meses de campanha longa",
+      "resultado": "26% de renovação na primeira campanha",
+      "estrategia": "Ofertas escalonadas para quem renova em 6, 5, 4, 3 meses"
+    }
+  },
+  "conceitos_chave": [
+    "EFEITO ALQUIMIA - Transformar Clientes Parados Em Toneladas De Dinheiro",
+    "ESCADA DE VALOR - Múltiplos degraus de produtos e serviços",
+    "EVOLUÇÃO DO AVATAR - Cada cliente é OUTRO AVATAR em cada degrau",
+    "DOUTRINAÇÃO PROGRESSIVA - Semear desejo pelo próximo nível ao longo do consumo",
+    "BUYING FRENEZY - Fazer o cliente ENTRAR e PERMANECER no ciclo de compra sem parar",
+    "ÚNICA CRENÇA - Definir a única coisa que se o público crer, não tem outra opção há não ser comprar",
+    "VANTAGEM ÚNICA - Ter oferta, proposta de valor e vantagem que ele SÓ pode obter com você",
+    "SEEDING - Plantar sementes do próximo produto ao longo do atual",
+    "PROBLEMA CRIADO - Criar um novo problema que só o próximo produto resolve",
+    "MINI ASCENSÕES - Pequenas ascensões dentro dos produtos para criar hábito de compra"
+  ],
+  "padroes_identificados": [
+    {
+      "padrao": "Sequência Automático → Semi → Manual",
+      "aplicacao": "Sempre tentar primeiro automação, depois semi-automação, por último manual"
+    },
+    {
+      "padrao": "Consciência → Desejo → Oferta",
+      "aplicacao": "1. Gerar consciência do próximo produto, 2. Aumentar desejo (seeding, histórias, demonstrações), 3. Fazer oferta"
+    },
+    {
+      "padrao": "Resolver Problema → Criar Novo Problema",
+      "aplicacao": "Cada produto resolve o problema prometido MAS cria consciência de um novo problema que o próximo resolve"
+    },
+    {
+      "padrao": "Valor Percebido Diferente Por Degrau",
+      "aplicacao": "Mesmo método, formatos diferentes para aumentar percepção de valor em cada degrau"
+    },
+    {
+      "padrao": "Ver Sem Ter Acesso",
+      "aplicacao": "Fazer pessoas verem a diferença do que eles não tem acesso toda hora (produtos bloqueados à mostra, notificações de eventos de outros níveis)"
+    },
+    {
+      "padrao": "Conexão 360°",
+      "aplicacao": "Conexão com Marca + Tribo + Expert + Método + Comunidade = Retenção e Ascensão"
+    },
+    {
+      "padrao": "Hábito de Uso Sem Posse",
+      "aplicacao": "Fazer eles dependerem de você para ter o que eles usam sempre (não possuem, dependem)"
+    },
+    {
+      "padrao": "Evolução Progressiva Com Status",
+      "aplicacao": "Calouros → 2º Ano → 3º Ano com nomenclaturas diferentes e benefícios progressivos"
+    }
+  ],
+  "metodo_rafa_ascensao_completo": {
+    "passo_1_atrair_barato": {
+      "estrategia": "ATRAI BARATO SEM AUTORIDADE COM LOWTICKET E BATE BREAK-EVEN PARA ESCALAR ATÉ O TALO SEM CUSTO COM MINI ASCENSÕES",
+      "componentes": [
+        "ENTREGA DE VALOR (MELHOR PRIMEIRO BEIJO)",
+        "FAZ MINI ASCENSÕES PARA PRODUTOS BARATOS (R$7, R$17, R$27, R$37)",
+        "FUNIL DE CUPOM DE DESCONTO"
+      ]
+    },
+    "passo_2_engajar_conectar": {
+      "estrategia": "ENGAJA E CONECTA COM A MARCA (Com a marca, com a tribo, com o expert, com o método, com a comunidade)",
+      "componentes": [
+        "MONTA A TRIBO (Movimento em causa da tribo e motivador ferido)",
+        "DEFINE A ÚNICA CRENÇA PARA CADA DEGRAU",
+        "ASCENSÃO DE CONEXÃO E EXPERIÊNCIA COM A MARCA (5 tipos de conexão)"
+      ],
+      "5_tipos_conexao": [
+        "1. CONEXÃO COM A EMPRESA/MARCA",
+        "2. CONEXÃO COM A TRIBO",
+        "3. CONEXÃO COM O EXPERT (Direct, YouTube, Spotify)",
+        "4. CONEXÃO COM O MÉTODO (Provas, passos simples, desafios)",
+        "5. CONEXÃO COM A COMUNIDADE (Vídeo vendendo ideia, materiais exclusivos, desafios de engajamento)"
+      ]
+    },
+    "passo_3_doutrinar_ascender": {
+      "estrategia": "DOUTRINA OS CLIENTES DA MARCA A SUBIR NA ESCADA DE VALOR (ASCENDER)",
+      "componentes": [
+        "NEWSLETTER INTERNA PARA CLIENTES EM GERAL",
+        "CONTEÚDO INTERNO NA COMUNIDADE",
+        "DOUTRINAÇÃO POR NÍVEL DA ESCADA DE VALOR"
+      ]
+    },
+    "passo_4_ascender_automaticamente": {
+      "estrategia": "ASCENDE OS CLIENTES AUTOMATICAMENTE PARA OS 3 DEGRAUS DE ASSINATURA (TODOS SÃO ASSINATURA)",
+      "componentes": [
+        "CRIAÇÃO DA ESCADA DE VALOR MUITO RÁPIDO",
+        "ASCENSÃO AUTOMÁTICAS (8 mecanismos)",
+        "ASCENSÃO MANUAL (Recupera manualmente os que não ascenderam pelo automático)"
+      ]
+    }
+  },
+  "ascensao_highticket_para_mastermind": {
+    "FORMA_1": {
+      "descricao": "Levar mentorados como convidados especiais grátis",
+      "processo": [
+        "Analise que mentorados ou leads tem o faturamento ideal para o seu mastermind",
+        "Leve-os como convidados especiais grátis",
+        "Envolva eles, faça-os vestir a camisa",
+        "Integre eles com o grupo",
+        "Dê atenção especial, brindes de boas vindas",
+        "Apresente eles no mastermind",
+        "Faça com eles todas as dinâmicas do evento",
+        "No final, chame eles no canto e pergunte se querem viver mais dessa experiência"
+      ]
+    },
+    "FORMA_2": {
+      "descricao": "Premiação com call após vitória compartilhada",
+      "processo": [
+        "Nas calls, primeira parte sempre pergunta quem teve ótimo resultado",
+        "Comemorar desesperadamente e forçar todos a aplaudirem",
+        "Tutores descobrem quem faturou o valor ideal para subir pro mastermind",
+        "1 dia depois, chamam a pessoa no privado",
+        "MENTOR premiou elas com uma call",
+        "Nessa call o MENTOR avisa que está na hora de subir pro mastermind",
+        "Se não conseguirem entrar, anotar nome e levar como convidado grátis no próximo evento presencial"
+      ],
+      "doutrinacao_critica": "É importante que ao longo da mentoria toda, você sempre fique gerando valor e doutrinação na direção do mastermind"
+    },
+    "FORMA_3": {
+      "descricao": "Entrega presencial com premiação",
+      "processo": [
+        "1. Entrega Presencial da Mentoria a cada 4 meses",
+        "2. Cada evento presencial eu descubro os maiores faturamentos e pessoas com comportamento e índole que eu gosto",
+        "3. Premio no palco com a possibilidade de estar no próximo encontro da Cúpula de graça",
+        "4. Depois de participar do encontro, faço pitch da cúpula para eles"
+      ]
+    }
+  }
+}
