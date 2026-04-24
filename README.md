@@ -2,6 +2,45 @@
 
 Sistema completo para criar estratégias de ascensão automática que fazem clientes comprarem mais, mais rápido, mais vezes e por valores maiores.
 
+## Como Instalar (passo a passo)
+
+> Esta skill funciona dentro do **Claude Code** (o Claude que roda no computador). Se você ainda não tem o Claude Code instalado, siga primeiro o tutorial oficial: https://docs.claude.com/claude-code
+
+### Opção 1 — O jeito rápido (copiar e colar no Terminal)
+
+Abra o **Terminal** do seu computador (no Mac: aperte `Cmd + Espaço`, digite "Terminal" e aperte Enter) e cole o bloco abaixo. Ele faz tudo sozinho:
+
+```bash
+mkdir -p ~/.claude/skills && \
+cd ~/.claude/skills && \
+git clone https://github.com/hackersdomarketing/skill-ascensao-automatica.git ascensao-automatica
+```
+
+Pronto! A skill já está instalada. Abra o Claude Code e peça para ele "ativar a skill de ascensão automática".
+
+### Opção 2 — Sem usar comandos (baixar como ZIP)
+
+1. Abra este endereço no navegador: https://github.com/hackersdomarketing/skill-ascensao-automatica
+2. No canto direito, clique no botão verde escrito **Code**
+3. Vai abrir um menuzinho — clique em **Download ZIP**
+4. Vai baixar um arquivo chamado `skill-ascensao-automatica-main.zip` na sua pasta Downloads
+5. **Descompacte** esse arquivo (clique duas vezes nele) — vai virar uma pasta
+6. **Renomeie** essa pasta de `skill-ascensao-automatica-main` para `ascensao-automatica` (sem o "-main" no final)
+7. Abra o **Finder** e aperte `Cmd + Shift + G`. Vai aparecer uma caixinha
+8. Cole este caminho na caixinha e aperte Enter: `~/.claude/skills/`
+   - Se a pasta `skills` não existir, crie uma nova pasta com esse nome exato
+9. Arraste a pasta `ascensao-automatica` (a que você renomeou) para dentro de `~/.claude/skills/`
+
+Pronto! A skill está instalada.
+
+### Como confirmar que funcionou
+
+Abra o Claude Code e digite: **"ative a skill de ascensão automática"**
+
+Se o Claude responder reconhecendo a skill e começar a seguir o framework dela, está tudo certo. Se ele não reconhecer, feche o Claude Code e abra de novo — às vezes precisa reiniciar para detectar skills novas.
+
+---
+
 ## Quando Usar Esta Skill
 
 Use esta skill quando precisar:
